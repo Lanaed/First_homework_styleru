@@ -23,4 +23,6 @@ After input of word by user script output all films from downloaded base (second
 
 ## Fourth task
 
-After input of 
+User should input the exact name of film, then this film is looked for in downloaded base. After that we have two variants: 
+1. This film can't be found in this base
+2. We have found this film and got his genres and keywords, on the basis of that we make the recommendation.
